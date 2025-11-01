@@ -1,55 +1,27 @@
 /*  your css code here. If applicable */
-.i-st{
-	height:300px;
-	width:300px;
-	background-color:#ff0000;
-	border-radius:50%;
-	display:flex;
-	justify-content:center;
-	align-items:center;
+#outer {
+  height: 300px;
+  width: 300px;
+  background-color: #ff0000;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.ii-st{
-	height:250px;
-	width:250px;
-	background-color:#ffa500;
-	border-radius:50%;
-	display:flex;
-	justify-content:center;
-	align-items:center;
+
+#middle {
+  height: 200px;
+  width: 200px;
+  background-color: #ffff00;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.iii-st{
-	height:200px;
-	width:200px;
-	background-color:#ffff00;
-	border-radius:50%;
-	display:flex;
-	justify-content:center;
-	align-items:center;
-}
-.iv-st{
-	height:150px;
-	width:150px;
-	background-color:#008000;
-	border-radius:50%;
-	display:flex;
-	justify-content:center;
-	align-items:center;
-}
-.v-st{
-	height:100px;
-	width:100px;
-	background-color:#0000ff;
-	border-radius:50%;
-	display:flex;
-	justify-content:center;
-	align-items:center;
-}
-.vi-st{
-	height:50px;
-	width:50px;
-	background-color:#800080;
-	border-radius:50%;
-	display:flex;
-	justify-content:center;
-	align-items:center;
+
+#inner {
+  height: 100px;
+  width: 100px;
+  background-color: #0000ff;
+  border-radius: 50%;
 }
